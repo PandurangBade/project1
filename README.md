@@ -1,1 +1,2 @@
-# project1
+# Meesho-Clone
+HTML, CSS, JavaScript
